@@ -15,4 +15,4 @@ git,python
 ┃┃ ┗📄some python file.py      
 ┃┣📄LICENSE                    
 ┃┗📄README.md                       
-┗▶️setup.py                           
+┗▶️upload.py                           
