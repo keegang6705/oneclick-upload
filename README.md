@@ -8,11 +8,11 @@ git,python
 2 run code
 
 # file&folder   
-folder                     
-┣project                          
-┃┣project           
-┃┃ ┣__init__.py         
-┃┃ ┗some python file.py      
-┃┣LICENSE                    
-┃┗README.md                       
-┗setup.py                           
+📁folder                     
+┣📁project                          
+┃┣📁project           
+┃┃ ┣📄__init__.py         
+┃┃ ┗📄some python file.py      
+┃┣📄LICENSE                    
+┃┗📄README.md                       
+┗▶️setup.py                           
